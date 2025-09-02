@@ -11,7 +11,12 @@ Dự án nhóm môn học năm 1. Thời điểm đó trường chỉ dạy **C/
 
 ## Ngôn ngữ sử dụng
 - Python  
-- SQL  
+- SQL
+
+## Kỹ năng đạt được
+- Teamwork.
+- Tự học ngôn ngữ mới.
+- Quản lý tốt deadline.
 
 ## Liên hệ
 [angquoc](https://github.com/angquoc)
